@@ -28,7 +28,7 @@
     trên những chiếc lá gồi,
     rồi tôi nghĩ,
     sẽ chẳng bao giờ tôi hiểu nổi con người
-    vây mà tôi vẫn
+    vậy mà tôi vẫn
     cứ sống.
  
  
