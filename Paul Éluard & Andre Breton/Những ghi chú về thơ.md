@@ -1,6 +1,8 @@
 #### Những ghi chú về thơ
     Bài thơ phải là một sự tan rã của lý trí. Nó không thể là bất cứ điều gì khác.
-        Tan rã: nghĩa là mạnh ai nấy chạy, nhưng nghiêm trọng, nhưng thuyết phục; cái hình ảnh mà người ta không thể làm khác, của trạng thái trong đó những nỗ lực không còn đáng kể.
+        Tan rã: nghĩa là mạnh ai nấy chạy, nhưng nghiêm trọng, nhưng thuyết phục; 
+        cái hình ảnh mà người ta không thể làm khác, của trạng thái trong đó những nỗ 
+        lực không còn đáng kể.
         Bên trong nhà thơ:
         Tai thì cười,
         Miệng thì chửi;
