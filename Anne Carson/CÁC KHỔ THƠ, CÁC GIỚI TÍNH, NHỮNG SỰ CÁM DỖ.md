@@ -1,85 +1,91 @@
 #### CÁC KHỔ THƠ, CÁC GIỚI TÍNH, NHỮNG SỰ CÁM DỖ
 
-Được là một kẻ vô tính cũng tốt.
+        Được là một kẻ vô tính cũng tốt.
 
-     Tôi muốn có đôi chân vô nghĩa.
+            Tôi muốn có đôi chân vô nghĩa.
 
-          Có những điều không thể chịu đựng nổi.
+                Có những điều không thể chịu đựng nổi.
 
-               Người ta có thể lẩn tránh chúng một thời gian dài.
+                    Người ta có thể lẩn tránh chúng một thời gian dài.
 
-Rồi, em chết.
-
-
-Đại dương nhắc tôi nhớ
-
-     căn phòng màu xanh của em.
-
-          Có những điều không thể chịu đựng nổi.
-
-               Sự khinh miệt, những ông hoàng, từng chút của sự chết dần
-
-chết mòn này.
+                        Rồi, em chết.
 
 
-Thơ của chính tôi là một thất bại.
 
-     Tôi không muốn là một người.
+        Đại dương nhắc tôi nhớ
 
-          Tôi muốn không thể chịu đựng nổi.
+            căn phòng màu xanh của em.
 
-               Tình nhân đối với tình nhân, sự non nớt của tình yêu.
+                Có những điều không thể chịu đựng nổi.
 
-Nguội, nguội dần.
+                    Sự khinh miệt, những ông hoàng, từng chút của sự chết dần
 
-
-Trái đất không chịu đựng nổi thứ cây như vậy.
-
-     Ai mà không cuối cùng trở thành
-
-          một người đóng vai nữ?
-
-               Uống tất cả những thứ giống đang tồn tại.
-
-Vẫn cứ chết.
+                        chết mòn này.
 
 
-Tôi cám dỗ em.
 
-     Tôi đỏ mặt.
+        Thơ của chính tôi là một thất bại.
 
-          Có những điều không thể chịu đựng nổi.
+            Tôi không muốn là một người.
 
-               Chân, chao ôi.
+                Tôi muốn không thể chịu đựng nổi.
 
-Chân chết.
+                    Tình nhân đối với tình nhân, sự non nớt của tình yêu.
 
-
-Đung đưa chúng xuống,
-
-     chậm như điên,
-
-          có một thuật ngữ ballet cho nó–
-
-               mảnh vỡ của lá nhôm, một chút
-
-lộn nhào,
+                        Nguội, nguội dần.
 
 
-     một chút say,
 
-          một chút chén,
+        Trái đất không chịu đựng nổi thứ cây như vậy.
+
+            Ai mà không cuối cùng trở thành
+
+                một người đóng vai nữ?
+
+                    Uống tất cả những thứ giống đang tồn tại.
+
+
+
+                Vẫn cứ chết.
+
+
+        Tôi cám dỗ em.
+
+            Tôi đỏ mặt.
+
+                Có những điều không thể chịu đựng nổi.
+
+                    Chân, chao ôi.
+
+                        Chân chết.
+
+
+        Đung đưa chúng xuống,
+
+            chậm như điên,
+
+                có một thuật ngữ ballet cho nó–
+
+                mảnh vỡ của lá nhôm, một chút
+
+                    lộn nhào,
+
+
+        một chút say,
+
+            một chút chén,
 
                một chút ồ,
 
                     chao ôi.
+
 
 #### STANZAS, SEXES, SEDUCTONS
 
 
 “Stanzas, Sexes, Seductions” by Anne Carson
 
-It’s good to be neuter.
+    It’s good to be neuter.
 
      I want to have meaningless legs.
 
@@ -87,10 +93,10 @@ It’s good to be neuter.
 
                One can evade them a long time.
 
-Then you die.
+    Then you die.
 
 
-The ocean reminds me
+    The ocean reminds me
 
      of your green room.
 
@@ -98,10 +104,10 @@ The ocean reminds me
 
                Scorn, princes, this little size
 
-of dying.
+    of dying.
 
 
-My personal poetry is a failure.
+    My personal poetry is a failure.
 
      I do not want to be a person.
 
@@ -109,10 +115,10 @@ My personal poetry is a failure.
 
                Lover to lover, the greenness of love.
 
-Cool, cooling.
+    Cool, cooling.
 
 
-Earth bears no such plant.
+    Earth bears no such plant.
 
      Who does not end up
 
@@ -120,10 +126,10 @@ Earth bears no such plant.
 
                Drink all the sex there is.
 
-Still die.
+    Still die.
 
 
-I tempt you.
+    I tempt you.
 
      I blush.
 
@@ -131,17 +137,17 @@ I tempt you.
 
                Legs, alas.
 
-Legs die.
+    Legs die.
 
 
-Rocking themselves down,
+    Rocking themselves down,
 
      crazy slow,
 
           some ballet term for it —
 
                fragment of foil, little
-spin,
+    spin,
 
      little drunk,
 
